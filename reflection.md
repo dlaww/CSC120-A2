@@ -1,3 +1,4 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+I had the most trouble trying to think in terms objects (variables) and then what we wanted to do with the objects, as this would provide the guide to the methods that needed to be made. I'm still not totally sure I understand OOP but I think this is the start of it? So I'd suppose I'm having some trouble adjusting to thinking in terms of OOP. Something that worked was going to office hours and being able to work with other people in the class as well as the profs - I was able to get help with the code as well as clarification on some other concepts that were adding to my confusion about how to approach the assignment. I would highly recommend to future students going to office hours and also getting a head start on the assignment so you know what's going on when its mentioned and hints are given in class LOL
