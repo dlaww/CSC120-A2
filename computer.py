@@ -22,7 +22,7 @@ class Computer:
                 self.price = price
         
     # What methods will you need?
-    #gathering all computer details
+    #gathering all of an individual's details in a list when called
     def computerDetails(self):
         print(self.description)
         print(self.processor_type)
@@ -34,5 +34,4 @@ class Computer:
 
 def main():
     c = Computer("MacPro", "Sierra", "750", "500", "Jaguar", "2019", "400")
-    c.computerDetails()
-main()
+print("computer made")

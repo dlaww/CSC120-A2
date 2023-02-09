@@ -1,0 +1,2 @@
+git config --global user.email "dlaw14@smith.edu"
+git config --global user.name "Dakota Law"
